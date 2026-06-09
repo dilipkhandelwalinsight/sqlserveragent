@@ -1,0 +1,15 @@
+{
+  "connections": {
+    "dev": {
+      "label": "dev",
+      "connection_string": "Server=tcp:fabric--db.database.windows.net,1433;Database=AdventureWork;User Id=Insight@fabric--db.database.windows.net;Password=fabric@123;",
+      "added_at": "2026-06-09 14:35"
+    }
+  },
+  "active_conn_id": "dev",
+  "ai_cfg": {
+    "endpoint": "https://aisozvsdemo.openai.azure.com",
+    "model": "gpt-4.1-mini",
+    "api_version": "2024-12-01-preview"
+  }
+}

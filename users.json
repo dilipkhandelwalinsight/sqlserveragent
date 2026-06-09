@@ -1,0 +1,27 @@
+{
+  "admin": {
+    "name": "Administrator",
+    "role": "Admin",
+    "password": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7"
+  },
+  "dba": {
+    "name": "Database Admin",
+    "role": "DBA",
+    "password": "635e25a81ed598ef46a66637dbbc67689356e09026b2e25a2cbe267bc7a3efb8"
+  },
+  "developer": {
+    "name": "Developer",
+    "role": "Developer",
+    "password": "c6f5b541d28b0c7c4e6b63f81ccceb6faec8df04c3793c39e2937d5b34f1d9e5"
+  },
+  "analyst": {
+    "name": "Data Analyst",
+    "role": "Analyst",
+    "password": "a1205a5c10b5f96929efd9230890b238f3ba07b76641d8b96ac814eef869d8a5"
+  },
+  "user": {
+    "name": "Business User",
+    "role": "Business User",
+    "password": "3e7c19576488862816f13b512cacf3e4ba97dd97243ea0bd6a2ad1642d86ba72"
+  }
+}
